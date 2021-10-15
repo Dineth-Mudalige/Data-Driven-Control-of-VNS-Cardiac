@@ -32,7 +32,7 @@ Note: Directions for installing the required materials for calling MATLAB from P
 
 **tensorflow** == version 2.5.0
 
-**matplotlib.pyplot** == version 3.4.2
+**matplotlib** == version 3.4.2
 
 **scipy** == version 1.6.0
 
