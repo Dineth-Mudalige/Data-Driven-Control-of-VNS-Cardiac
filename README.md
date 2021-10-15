@@ -24,7 +24,13 @@ Note: Directions for installing the required materials for calling MATLAB from P
 
 ## Packages and Versions Used 
 
+**Python** == version 3.7.9 
+**MATLAB** == version 2019b 
 
+**numpy** == version 1.19.5
+**tensorflow** == version 2.5.0
+**matplotlib.pyplot** == version 3.4.2
+**scipy** == version 1.6.0
 
 ### MATLAB - Files 
 
