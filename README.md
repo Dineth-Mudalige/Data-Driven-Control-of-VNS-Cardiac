@@ -3,7 +3,7 @@
  This is the read me for the open source code provided as supplement ot the Frontier's paper: 
  Data Driven Control of Vagus Nerve Stimulation for the Cardiac System
  
- Branen A., Yao Y., Mahmoudi B., Kothare M., and Kumar G. 
+ Branen A., Yao Y., Kothare M., Mahmoudi B., and Kumar G. 
 
 Correspondence: gautam.kumar@sjsu.edu 
 
