@@ -1,6 +1,6 @@
 # Data Driven Control of VNS for the Cardiac System
  
- This is the read me for the open source code provided as supplement ot the Frontier's paper: 
+ This is the read me for the open source code provided as supplement to the Bioarxiv paper: 
  Data Driven Control of Vagus Nerve Stimulation for the Cardiac System
  
  Branen A., Yao Y., Kothare M., Mahmoudi B., and Kumar G. 
