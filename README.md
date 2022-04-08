@@ -18,9 +18,20 @@ See below for a description of the files.
 
 ## Running Simulations 
 
-To run a simulation with this code, place the MATLAB files into the current working MATLAB directory. Then update the path variables in the Python Controller codes with the MATLAB Path, and the path to the LSTM model. After that, simply run the controller file to obtain the simulation results of interest. 
+To run a simulation with this code, place the MATLAB files into the current working MATLAB directory. Then update the path variables in the Python Controller codes with the MATLAB Path: 
 
-Note: Directions for installing the required materials for calling MATLAB from Python can be found on the MATLAB website. 
+$\texttt{matlab_path} =$ *path to the current working MATLAB directory* 
+
+Also update the path variable to the LSTM model. 
+
+$\texttt{model_path}=$ *path to the model/LSTM_10_tanh.h5* 
+
+After that, run the controller file to obtain the simulation results of interest with a traditional call to the Python environment from the command line: 
+
+$\texttt{python "path-to-controller-file/simulation-of-interest.py"}$
+
+More information regarding how to install the MATLAB Engine API for Python can be found on the MathWorks website: 
+https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html 
 
 ## Packages and Versions Used 
 
