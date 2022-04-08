@@ -23,7 +23,7 @@ To run a simulation with this code, place the MATLAB files into the current work
 
 `matlab_path = 'path to the current working MATLAB directory'` 
 
-An example for Linux/MAC users may look like: `'/Users/Your-Name/Documents/MATLAB'` 
+An example for Linux/Mac users may look like: `'/Users/Your-Name/Documents/MATLAB'` 
 
 Also update the path variable to the LSTM model: 
 
