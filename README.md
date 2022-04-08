@@ -1,9 +1,10 @@
 # Data Driven Control of VNS for the Cardiac System
  
  This is the read me for the open source code provided as supplement to the Bioarxiv paper: 
- Data Driven Control of Vagus Nerve Stimulation for the Cardiac System
  
- Branen A., Yao Y., Kothare M., Mahmoudi B., and Kumar G. 
+ *Data Driven Control of Vagus Nerve Stimulation for the Cardiac System*
+ 
+ Authors: Branen A., Yao Y., Kothare M., Mahmoudi B., and Kumar G. 
 
 Correspondence: gautam.kumar@sjsu.edu 
 
@@ -20,18 +21,20 @@ See below for a description of the files.
 
 To run a simulation with this code, place the MATLAB files into the current working MATLAB directory. Then update the path variables in the Python Controller codes with the MATLAB Path: 
 
-$\texttt{matlab_path} =$ *path to the current working MATLAB directory* 
+`matlab_path = 'path to the current working MATLAB directory'` 
 
-Also update the path variable to the LSTM model. 
+An example for Linux/MAC users may look like: `'/Users/Your-Name/Documents/MATLAB'` 
 
-$\texttt{model_path}=$ *path to the model/LSTM_10_tanh.h5* 
+Also update the path variable to the LSTM model: 
 
-After that, run the controller file to obtain the simulation results of interest with a traditional call to the Python environment from the command line: 
+`model_path = 'path-to-the-model/LSTM_10_tanh.h5'` 
 
-$\texttt{python "path-to-controller-file/simulation-of-interest.py"}$
+Then run the controller file to obtain the simulation results of interest with a traditional call to the Python environment from the command line: 
+
+`python "path-to-controller-file/simulation-of-interest.py"`
 
 More information regarding how to install the MATLAB Engine API for Python can be found on the MathWorks website: 
-https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html 
+<https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html> 
 
 ## Packages and Versions Used 
 
