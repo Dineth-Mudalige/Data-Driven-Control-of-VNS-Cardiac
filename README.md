@@ -4,7 +4,7 @@
  
  *Data Driven Control of Vagus Nerve Stimulation for the Cardiac System*
  
- Authors: Branen A., Yao Y., Kothare M., Mahmoudi B., and Kumar G. 
+ Authors: A. Branen, Y. Yao, M. Kothare, B. Mahmoudi, and G. Kumar 
 
 Correspondence: gautam.kumar@sjsu.edu 
 
