@@ -47,9 +47,9 @@ More information regarding how to install the MATLAB Engine API for Python can b
 
 `tensorflow == version 2.5.0`
 
-**matplotlib** == version 3.4.2
+`matplotlib == version 3.4.2`
 
-**scipy** == version 1.6.0
+`scipy == version 1.6.0`
 
 ### MATLAB - Files 
 
