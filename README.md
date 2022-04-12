@@ -39,13 +39,13 @@ More information regarding how to install the MATLAB Engine API for Python can b
 
 ## Packages and Versions Used 
 
-**Python** == version 3.7.9 
+`Python == version 3.7.9` 
 
-**MATLAB** == version 2019b 
+`MATLAB == version 2019b` 
 
-**numpy** == version 1.19.5
+`numpy == version 1.19.5`
 
-**tensorflow** == version 2.5.0
+`tensorflow == version 2.5.0`
 
 **matplotlib** == version 3.4.2
 
