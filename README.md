@@ -2,7 +2,7 @@
  
  This is the read me for the open source code provided as supplement to the Frontiers in Physiology paper: 
  
- *Data Driven Control of Vagus Nerve Stimulation for the Cardiac System: an in silico Computational Study*
+ *Data Driven Control of Vagus Nerve Stimulation for the Cardiovascular System: an in silico Computational Study*
  
  Authors: A. Branen, Y. Yao, M. Kothare, B. Mahmoudi, and G. Kumar, 2022
 
